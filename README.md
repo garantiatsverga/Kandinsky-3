@@ -123,6 +123,8 @@ chmod +x install.sh
 ./install.sh
 ```
 
+(Note: if you're working in Colab, you can disregard the chmod +x install.sh command, changing it for cd Kandinsky-3)
+
 **For Windows:**
 
 ```bash
@@ -175,7 +177,7 @@ Or directly in Python:
 
 ```python
 import kandinsky3
-print("Kandinsky-3 successfully installed!")
+print("Kandinsky-3 had been successfully installed")
 ```
 
 ## How to use:
