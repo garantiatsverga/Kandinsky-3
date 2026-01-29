@@ -8,8 +8,8 @@ setup(
     ],
     install_requires=[
                     "timm",
-                    "torch==1.10.1+cu111",
-                    "torchvision==0.11.2+cu111",
+                    "torch>=1.10.0",
+                    "torchvision>=0.11.0",
                     "torchaudio==0.10.1",
                     "pytorch_lightning==1.7.5",
                     "transformers",

@@ -1,6 +1,6 @@
 timm
 
-pytorch_lightning==1.7.5
+pytorch_lightning==1.9.5
 transformers
 accelerate
 diffusers
